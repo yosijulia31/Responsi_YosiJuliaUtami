@@ -1,0 +1,7 @@
+{
+  "name": "crud_toy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
